@@ -2,8 +2,7 @@ package ui.adapter;
 
 import java.util.List;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

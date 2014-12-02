@@ -3,7 +3,7 @@ package config;
 import bean.UserEntity;
 import bean.UserInfo;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 
 import android.app.AlertDialog;
 import android.app.Notification;

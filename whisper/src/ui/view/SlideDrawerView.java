@@ -15,7 +15,7 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 /**
  * whisper
  *

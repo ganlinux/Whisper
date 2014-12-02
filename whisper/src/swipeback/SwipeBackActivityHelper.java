@@ -8,8 +8,7 @@ import android.view.View;
 
 import java.lang.reflect.Method;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 
 /**
  * whisper

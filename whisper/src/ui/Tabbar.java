@@ -5,8 +5,7 @@ import im.WeChat;
 import tools.AppManager;
 import ui.view.SlideDrawerView;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import android.app.AlertDialog;
 import android.app.TabActivity;
 import android.content.DialogInterface;

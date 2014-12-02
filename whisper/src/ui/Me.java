@@ -40,8 +40,7 @@ import bean.KeyValue;
 import bean.UserEntity;
 import bean.UserInfo;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import config.ApiClent;
 import config.ApiClent.ClientCallback;
 import config.AppActivity;

@@ -22,8 +22,7 @@ import android.widget.ListView;
 import bean.StrangerEntity;
 import bean.UserInfo;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import config.ApiClent;
 import config.AppActivity;
 import config.CommonValue;

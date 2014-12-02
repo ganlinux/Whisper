@@ -4,7 +4,7 @@ import tools.AppManager;
 import tools.ImageUtils;
 import android.graphics.Bitmap;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
 import com.nostra13.universalimageloader.core.assist.LoadedFrom;
@@ -19,7 +19,7 @@ import com.nostra13.universalimageloader.core.imageaware.ImageAware;
  *
  */
 public class CommonValue {
-	public static String PackageName = "com.donal.wechat";
+	public static String PackageName = "com.sheldon.whisper";
 	
 	public static String BASE_API = "http://115.159.71.25:8080/wechat/api/";
 	public static String BASE_URL = "http://115.159.71.25:8080/";

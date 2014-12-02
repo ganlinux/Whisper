@@ -2,8 +2,7 @@ package db;
 
 import java.io.File;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteDatabase.CursorFactory;

@@ -1,4 +1,4 @@
-package tools;
+package ui;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -9,14 +9,16 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.DecimalFormat;
 
-import com.donal.wechat.R;
+import tools.Logger;
+import tools.UIHelper;
+
+import com.sheldon.whisper.R;
 
 
 
 import bean.Entity;
 import bean.Result;
 import bean.Update;
-
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.app.Dialog;

@@ -19,8 +19,7 @@ import tools.Logger;
 import ui.adapter.WeChatAdapter;
 import ui.view.SlideDrawerView;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;

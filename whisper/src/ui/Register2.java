@@ -9,7 +9,7 @@ import bean.Entity;
 import bean.Result;
 import bean.UserEntity;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 import com.google.gson.Gson;
 import com.loopj.android.http.PersistentCookieStore;
 

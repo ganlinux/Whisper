@@ -2,8 +2,7 @@ package ui;
 
 import ui.view.SlideDrawerView;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 /**

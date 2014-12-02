@@ -4,8 +4,7 @@ import java.util.List;
 
 import bean.KeyValue;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;

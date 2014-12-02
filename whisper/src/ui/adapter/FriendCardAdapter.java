@@ -6,7 +6,7 @@ import java.util.concurrent.ExecutionException;
 import tools.StringUtils;
 import ui.Friend;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
 import config.CommonValue;

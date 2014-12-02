@@ -14,7 +14,7 @@ import cn.smssdk.EventHandler;
 import cn.smssdk.SMSSDK;
 import cn.smssdk.gui.RegisterPage;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 import com.google.analytics.tracking.android.EasyTracker;
 
 import android.app.ProgressDialog;

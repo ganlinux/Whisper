@@ -13,7 +13,7 @@ import bean.JsonMessage;
 import bean.UserDetail;
 import bean.UserInfo;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
 import config.ApiClent;

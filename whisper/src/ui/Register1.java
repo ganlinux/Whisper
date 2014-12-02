@@ -1,7 +1,6 @@
 package ui;
 
-import com.donal.wechat.R;
-
+import com.sheldon.whisper.R;
 import config.AppActivity;
 import config.CommonValue;
 import android.app.ProgressDialog;

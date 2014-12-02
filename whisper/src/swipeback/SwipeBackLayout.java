@@ -17,7 +17,7 @@ import android.widget.FrameLayout;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 /**
  * whisper
  *

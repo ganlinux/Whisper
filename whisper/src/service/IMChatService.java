@@ -20,7 +20,7 @@ import org.jivesoftware.smack.packet.Packet;
 
 import bean.JsonMessage;
 
-import com.donal.wechat.R;
+import com.sheldon.whisper.R;
 import com.google.gson.Gson;
 
 import config.CommonValue;
